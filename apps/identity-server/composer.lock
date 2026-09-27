@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2d02c7054b7d0b6bc44b80bb093202d5",
+    "content-hash": "b980d5a50bcbb067a4551b05006d2197",
     "packages": [
         {
             "name": "brick/math",
@@ -6018,16 +6018,16 @@
         },
         {
             "name": "symfony/process",
-            "version": "v7.4.18",
+            "version": "v7.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "058d17fc284cce14efb2385783b55014a461b176"
+                "reference": "ed0ae095b86994d370d5791612e55984f15aa30e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/058d17fc284cce14efb2385783b55014a461b176",
-                "reference": "058d17fc284cce14efb2385783b55014a461b176",
+                "url": "https://api.github.com/repos/symfony/process/zipball/ed0ae095b86994d370d5791612e55984f15aa30e",
+                "reference": "ed0ae095b86994d370d5791612e55984f15aa30e",
                 "shasum": ""
             },
             "require": {
@@ -6059,7 +6059,7 @@
             "description": "Executes commands in sub-processes",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/process/tree/v7.4.18"
+                "source": "https://github.com/symfony/process/tree/v7.4.19"
             },
             "funding": [
                 {
@@ -6079,7 +6079,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-21T17:40:08+00:00"
+            "time": "2026-09-02T12:38:34+00:00"
         },
         {
             "name": "symfony/property-access",
@@ -6164,16 +6164,16 @@
         },
         {
             "name": "symfony/property-info",
-            "version": "v7.4.18",
+            "version": "v7.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/property-info.git",
-                "reference": "52420d499b03ec20c0d38f0dc2f940bc9c43dc8e"
+                "reference": "547d2acbe865d511809b96ab653304fd632abbaa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/property-info/zipball/52420d499b03ec20c0d38f0dc2f940bc9c43dc8e",
-                "reference": "52420d499b03ec20c0d38f0dc2f940bc9c43dc8e",
+                "url": "https://api.github.com/repos/symfony/property-info/zipball/547d2acbe865d511809b96ab653304fd632abbaa",
+                "reference": "547d2acbe865d511809b96ab653304fd632abbaa",
                 "shasum": ""
             },
             "require": {
@@ -6230,7 +6230,7 @@
                 "validator"
             ],
             "support": {
-                "source": "https://github.com/symfony/property-info/tree/v7.4.18"
+                "source": "https://github.com/symfony/property-info/tree/v7.4.19"
             },
             "funding": [
                 {
@@ -6250,7 +6250,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-25T14:18:37+00:00"
+            "time": "2026-09-04T10:11:42+00:00"
         },
         {
             "name": "symfony/routing",
@@ -6339,16 +6339,16 @@
         },
         {
             "name": "symfony/serializer",
-            "version": "v7.4.18",
+            "version": "v7.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/serializer.git",
-                "reference": "1f31d4e902c85b820af5dce27dbe17435524bed0"
+                "reference": "d631b82e0db971444651c4e6a076040d20878caa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/serializer/zipball/1f31d4e902c85b820af5dce27dbe17435524bed0",
-                "reference": "1f31d4e902c85b820af5dce27dbe17435524bed0",
+                "url": "https://api.github.com/repos/symfony/serializer/zipball/d631b82e0db971444651c4e6a076040d20878caa",
+                "reference": "d631b82e0db971444651c4e6a076040d20878caa",
                 "shasum": ""
             },
             "require": {
@@ -6419,7 +6419,7 @@
             "description": "Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/serializer/tree/v7.4.18"
+                "source": "https://github.com/symfony/serializer/tree/v7.4.19"
             },
             "funding": [
                 {
@@ -6439,7 +6439,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-30T00:47:26+00:00"
+            "time": "2026-09-08T13:28:43+00:00"
         },
         {
             "name": "symfony/service-contracts",
@@ -6530,16 +6530,16 @@
         },
         {
             "name": "symfony/string",
-            "version": "v7.4.15",
+            "version": "v7.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/string.git",
-                "reference": "e394af32256bf9e7bf80849d95e589167c10097b"
+                "reference": "02731ce2bd26514bec9efc0baef2cd0b0cf67f46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/string/zipball/e394af32256bf9e7bf80849d95e589167c10097b",
-                "reference": "e394af32256bf9e7bf80849d95e589167c10097b",
+                "url": "https://api.github.com/repos/symfony/string/zipball/02731ce2bd26514bec9efc0baef2cd0b0cf67f46",
+                "reference": "02731ce2bd26514bec9efc0baef2cd0b0cf67f46",
                 "shasum": ""
             },
             "require": {
@@ -6597,7 +6597,7 @@
                 "utf8"
             ],
             "support": {
-                "source": "https://github.com/symfony/string/tree/v7.4.15"
+                "source": "https://github.com/symfony/string/tree/v7.4.19"
             },
             "funding": [
                 {
@@ -6617,7 +6617,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-28T07:33:02+00:00"
+            "time": "2026-09-11T14:46:58+00:00"
         },
         {
             "name": "symfony/translation",
@@ -7126,6 +7126,334 @@
             "time": "2026-08-21T12:09:28+00:00"
         },
         {
+            "name": "talred/cqrs",
+            "version": "v2.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/talredservices/cqrs.git",
+                "reference": "5efb4ec2f2d737adebc90fbbe353a4255590998d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/talredservices/cqrs/zipball/5efb4ec2f2d737adebc90fbbe353a4255590998d",
+                "reference": "5efb4ec2f2d737adebc90fbbe353a4255590998d",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.2",
+                "psr/container": "^2.0",
+                "symfony/process": "^7.3",
+                "symfony/property-access": "^7.3",
+                "symfony/property-info": "^7.3",
+                "symfony/serializer": "^7.3",
+                "talred/forge": "^1.0"
+            },
+            "require-dev": {
+                "larastan/larastan": "^3.8",
+                "laravel/pint": "^1.26",
+                "mockery/mockery": "^1.6",
+                "orchestra/testbench": "^10.6",
+                "phpmd/phpmd": "^2.15",
+                "phpstan/phpstan": "^2.1",
+                "phpunit/phpunit": "^11.5",
+                "rector/rector": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Zolta\\Cqrs\\Laravel\\Providers\\ZoltaCqrsServiceProvider"
+                    ]
+                },
+                "zolta-framework-adapter": [
+                    "Zolta\\Cqrs\\Laravel\\LaravelAdapter"
+                ]
+            },
+            "autoload": {
+                "files": [
+                    "src/Support/helpers.php"
+                ],
+                "psr-4": {
+                    "Zolta\\Cqrs\\": "src/Core/",
+                    "Zolta\\Cqrs\\Laravel\\": "src/Adapters/Laravel/",
+                    "Zolta\\Cqrs\\Support\\": "src/Support/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Redouane Taleb",
+                    "homepage": "https://github.com/redouaneT"
+                }
+            ],
+            "description": "CQRS application layer for PHP 8.2+ with command/query buses, decorator-based middleware pipeline, Result/Option monads, repository abstractions with caching, transaction management, domain event dispatching, and automatic handler discovery via attributes.",
+            "keywords": [
+                "application-layer",
+                "command",
+                "cqrs",
+                "ddd",
+                "domain-events",
+                "event-sourcing",
+                "hexagonal-architecture",
+                "laravel",
+                "php",
+                "query",
+                "repository",
+                "transaction-management",
+                "zolta"
+            ],
+            "support": {
+                "issues": "https://github.com/talredservices/cqrs/issues",
+                "source": "https://github.com/talredservices/cqrs/tree/v2.1.1"
+            },
+            "time": "2026-09-27T08:46:26+00:00"
+        },
+        {
+            "name": "talred/forge",
+            "version": "v1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/talredservices/forge.git",
+                "reference": "52d8e5905e4977d3d5e39a9bf778449fa6c6dd9c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/talredservices/forge/zipball/52d8e5905e4977d3d5e39a9bf778449fa6c6dd9c",
+                "reference": "52d8e5905e4977d3d5e39a9bf778449fa6c6dd9c",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.2",
+                "psr/container": "^2.0",
+                "symfony/process": "^7.3",
+                "symfony/property-access": "^7.3",
+                "symfony/property-info": "^7.3",
+                "symfony/serializer": "^7.3"
+            },
+            "require-dev": {
+                "larastan/larastan": "^3.8",
+                "laravel/pint": "^1.26",
+                "mockery/mockery": "^1.6",
+                "orchestra/testbench": "^10.6",
+                "phpmd/phpmd": "^2.15",
+                "phpstan/phpstan": "^2.1",
+                "phpunit/phpunit": "^11.5",
+                "rector/rector": "^2.2"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/Support/helpers.php"
+                ],
+                "psr-4": {
+                    "Zolta\\Domain\\": "src/Domain/",
+                    "Zolta\\Support\\": "src/Support/",
+                    "Zolta\\Framework\\": "src/Framework/",
+                    "Zolta\\Exceptions\\": "src/Exceptions/",
+                    "Zolta\\Serialization\\": "src/Serialization/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Redouane Taleb",
+                    "homepage": "https://github.com/redouaneT"
+                }
+            ],
+            "description": "Domain layer foundation for PHP 8.2+ providing Value Objects with attribute-based validation, Entities, Aggregates, Rules, Specifications, Policies, Invariants, Transformers, and a framework-agnostic adapter system.",
+            "keywords": [
+                "aggregate-root",
+                "ddd",
+                "domain",
+                "entity",
+                "forge",
+                "hexagonal-architecture",
+                "invariants",
+                "laravel",
+                "php",
+                "policies",
+                "rules",
+                "specification",
+                "transformer",
+                "value-object",
+                "zolta"
+            ],
+            "support": {
+                "issues": "https://github.com/talredservices/forge/issues",
+                "source": "https://github.com/talredservices/forge/tree/v1.0.3"
+            },
+            "time": "2026-09-27T07:29:17+00:00"
+        },
+        {
+            "name": "talred/http",
+            "version": "v2.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/talredservices/http.git",
+                "reference": "9ca368071a667e6084b6cdde2a493ed2f86521a0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/talredservices/http/zipball/9ca368071a667e6084b6cdde2a493ed2f86521a0",
+                "reference": "9ca368071a667e6084b6cdde2a493ed2f86521a0",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.2",
+                "psr/container": "^2.0",
+                "symfony/process": "^7.3",
+                "symfony/property-access": "^7.3",
+                "symfony/property-info": "^7.3",
+                "symfony/serializer": "^7.3",
+                "talred/forge": "^1.0"
+            },
+            "require-dev": {
+                "larastan/larastan": "^3.8",
+                "laravel/pint": "^1.26",
+                "mockery/mockery": "^1.6",
+                "orchestra/testbench": "^10.6",
+                "phpmd/phpmd": "^2.15",
+                "phpstan/phpstan": "^2.1",
+                "phpunit/phpunit": "^11.5",
+                "rector/rector": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Zolta\\Http\\Service\\Laravel\\Providers\\ZoltaHttpServiceProvider",
+                        "Zolta\\Http\\Router\\Laravel\\Providers\\ZoltaRouterServiceProvider",
+                        "Zolta\\Http\\Request\\Laravel\\Providers\\ZoltaRequestServiceProvider",
+                        "Zolta\\Http\\Authorization\\Laravel\\Providers\\ZoltaAuthorizationServiceProvider",
+                        "Zolta\\Http\\Identity\\Laravel\\Providers\\ZoltaIdentityServiceProvider"
+                    ]
+                },
+                "zolta-framework-adapter": [
+                    "Zolta\\Http\\Service\\Laravel\\LaravelHttpAdapter",
+                    "Zolta\\Http\\Router\\Laravel\\LaravelRouterAdapter",
+                    "Zolta\\Http\\Request\\Laravel\\LaravelRequestAdapter",
+                    "Zolta\\Http\\Response\\Laravel\\LaravelResponseAdapter",
+                    "Zolta\\Http\\Identity\\Laravel\\LaravelIdentityAdapter"
+                ]
+            },
+            "autoload": {
+                "files": [
+                    "src/Support/helpers.php"
+                ],
+                "psr-4": {
+                    "Zolta\\Http\\Router\\": "src/Router/",
+                    "Zolta\\Http\\Request\\": "src/Request/",
+                    "Zolta\\Http\\Service\\": "src/Service/",
+                    "Zolta\\Http\\Support\\": "src/Support/",
+                    "Zolta\\Http\\Response\\": "src/Response/",
+                    "Zolta\\Http\\Controller\\": "src/Controller/",
+                    "Zolta\\Http\\Exceptions\\": "src/Exceptions/",
+                    "Zolta\\Http\\Authorization\\": "src/Authorization/",
+                    "Zolta\\Http\\Router\\Laravel\\": "src/Router/Adapters/Laravel/",
+                    "Zolta\\Http\\Request\\Laravel\\": "src/Request/Adapters/Laravel/",
+                    "Zolta\\Http\\Service\\Laravel\\": "src/Service/Adapters/Laravel/",
+                    "Zolta\\Http\\Identity\\Laravel\\": "src/Identity/Adapters/Laravel/",
+                    "Zolta\\Http\\Response\\Laravel\\": "src/Response/Adapters/Laravel/",
+                    "Zolta\\Http\\Controller\\Laravel\\": "src/Controller/Adapters/Laravel/",
+                    "Zolta\\Http\\Exceptions\\Laravel\\": "src/Exceptions/Adapters/Laravel/",
+                    "Zolta\\Http\\Authorization\\Laravel\\": "src/Authorization/Adapters/Laravel/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Redouane Taleb",
+                    "homepage": "https://github.com/redouaneT"
+                }
+            ],
+            "description": "Domain-driven HTTP framework for PHP 8.2+ with attribute-based routing, automatic request validation, DTO mapping, standardized response shaping, and built-in authorization. First-class Laravel and Symfony adapters.",
+            "keywords": [
+                "adapter",
+                "api",
+                "attribute-routing",
+                "authorization",
+                "dto",
+                "http",
+                "laravel",
+                "php",
+                "request-validation",
+                "response",
+                "response-shaping",
+                "routing",
+                "symfony",
+                "zolta"
+            ],
+            "support": {
+                "issues": "https://github.com/talredservices/http/issues",
+                "source": "https://github.com/talredservices/http/tree/v2.1.2"
+            },
+            "time": "2026-09-27T08:13:00+00:00"
+        },
+        {
+            "name": "talred/php",
+            "version": "v1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/talredservices/php.git",
+                "reference": "1fdf3e9aacb1fd6dc493032799d3838603270d0e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/talredservices/php/zipball/1fdf3e9aacb1fd6dc493032799d3838603270d0e",
+                "reference": "1fdf3e9aacb1fd6dc493032799d3838603270d0e",
+                "shasum": ""
+            },
+            "require": {
+                "talred/cqrs": "^2.1",
+                "talred/forge": "^1.0",
+                "talred/http": "^2.1"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^10.6",
+                "phpunit/phpunit": "^11.5"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Zolta\\Framework\\Providers\\ZoltaFrameworkServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Zolta\\Framework\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Redouane Taleb",
+                    "homepage": "https://github.com/redouaneT",
+                    "role": "Founder & Lead Developer"
+                }
+            ],
+            "description": "A Composer package for the Talred PHP framework, providing an umbrella installer and unified Laravel configuration.",
+            "homepage": "https://github.com/talredservices/php",
+            "support": {
+                "issues": "https://github.com/talredservices/php/issues",
+                "source": "https://github.com/talredservices/php"
+            },
+            "time": "2026-09-27T20:07:37+00:00"
+        },
+        {
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "v2.4.0",
             "source": {
@@ -7426,334 +7754,6 @@
                 }
             ],
             "time": "2026-08-05T02:31:32+00:00"
-        },
-        {
-            "name": "zolta/cqrs",
-            "version": "v2.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/zoltasoft/cqrs.git",
-                "reference": "59f0c0a0a0feeeb20693298b5fce84e9db57e447"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/zoltasoft/cqrs/zipball/59f0c0a0a0feeeb20693298b5fce84e9db57e447",
-                "reference": "59f0c0a0a0feeeb20693298b5fce84e9db57e447",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^8.2",
-                "psr/container": "^2.0",
-                "symfony/process": "^7.3",
-                "symfony/property-access": "^7.3",
-                "symfony/property-info": "^7.3",
-                "symfony/serializer": "^7.3",
-                "zolta/forge": "^1.0"
-            },
-            "require-dev": {
-                "larastan/larastan": "^3.8",
-                "laravel/pint": "^1.26",
-                "mockery/mockery": "^1.6",
-                "orchestra/testbench": "^10.6",
-                "phpmd/phpmd": "^2.15",
-                "phpstan/phpstan": "^2.1",
-                "phpunit/phpunit": "^11.5",
-                "rector/rector": "^2.2"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Zolta\\Cqrs\\Laravel\\Providers\\ZoltaCqrsServiceProvider"
-                    ]
-                },
-                "zolta-framework-adapter": [
-                    "Zolta\\Cqrs\\Laravel\\LaravelAdapter"
-                ]
-            },
-            "autoload": {
-                "files": [
-                    "src/Support/helpers.php"
-                ],
-                "psr-4": {
-                    "Zolta\\Cqrs\\": "src/Core/",
-                    "Zolta\\Cqrs\\Laravel\\": "src/Adapters/Laravel/",
-                    "Zolta\\Cqrs\\Support\\": "src/Support/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Redouane Taleb",
-                    "homepage": "https://github.com/redouaneT"
-                }
-            ],
-            "description": "CQRS application layer for PHP 8.2+ with command/query buses, decorator-based middleware pipeline, Result/Option monads, repository abstractions with caching, transaction management, domain event dispatching, and automatic handler discovery via attributes.",
-            "keywords": [
-                "application-layer",
-                "command",
-                "cqrs",
-                "ddd",
-                "domain-events",
-                "event-sourcing",
-                "hexagonal-architecture",
-                "laravel",
-                "php",
-                "query",
-                "repository",
-                "transaction-management",
-                "zolta"
-            ],
-            "support": {
-                "issues": "https://github.com/zoltasoft/cqrs/issues",
-                "source": "https://github.com/zoltasoft/cqrs/tree/v2.1.0"
-            },
-            "time": "2026-08-11T20:36:56+00:00"
-        },
-        {
-            "name": "zolta/forge",
-            "version": "1.0.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/zoltasoft/forge.git",
-                "reference": "2211ffc1d9c0d2975952629dfed498904d989cab"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/zoltasoft/forge/zipball/2211ffc1d9c0d2975952629dfed498904d989cab",
-                "reference": "2211ffc1d9c0d2975952629dfed498904d989cab",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^8.2",
-                "psr/container": "^2.0",
-                "symfony/process": "^7.3",
-                "symfony/property-access": "^7.3",
-                "symfony/property-info": "^7.3",
-                "symfony/serializer": "^7.3"
-            },
-            "require-dev": {
-                "larastan/larastan": "^3.8",
-                "laravel/pint": "^1.26",
-                "mockery/mockery": "^1.6",
-                "orchestra/testbench": "^10.6",
-                "phpmd/phpmd": "^2.15",
-                "phpstan/phpstan": "^2.1",
-                "phpunit/phpunit": "^11.5",
-                "rector/rector": "^2.2"
-            },
-            "type": "library",
-            "autoload": {
-                "files": [
-                    "src/Support/helpers.php"
-                ],
-                "psr-4": {
-                    "Zolta\\Domain\\": "src/Domain/",
-                    "Zolta\\Support\\": "src/Support/",
-                    "Zolta\\Framework\\": "src/Framework/",
-                    "Zolta\\Exceptions\\": "src/Exceptions/",
-                    "Zolta\\Serialization\\": "src/Serialization/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Redouane Taleb",
-                    "homepage": "https://github.com/redouaneT"
-                }
-            ],
-            "description": "Domain layer foundation for PHP 8.2+ providing Value Objects with attribute-based validation, Entities, Aggregates, Rules, Specifications, Policies, Invariants, Transformers, and a framework-agnostic adapter system.",
-            "keywords": [
-                "aggregate-root",
-                "ddd",
-                "domain",
-                "entity",
-                "forge",
-                "hexagonal-architecture",
-                "invariants",
-                "laravel",
-                "php",
-                "policies",
-                "rules",
-                "specification",
-                "transformer",
-                "value-object",
-                "zolta"
-            ],
-            "support": {
-                "issues": "https://github.com/zoltasoft/forge/issues",
-                "source": "https://github.com/zoltasoft/forge/tree/1.0.2"
-            },
-            "time": "2026-07-06T16:31:44+00:00"
-        },
-        {
-            "name": "zolta/framework",
-            "version": "v1.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/zoltasoft/zolta-framework.git",
-                "reference": "c54c4efd6bff4ac66269d1967317110c42a5ad6c"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/zoltasoft/zolta-framework/zipball/c54c4efd6bff4ac66269d1967317110c42a5ad6c",
-                "reference": "c54c4efd6bff4ac66269d1967317110c42a5ad6c",
-                "shasum": ""
-            },
-            "require": {
-                "zolta/cqrs": "^2.1",
-                "zolta/forge": "^1.0",
-                "zolta/http": "^2.1"
-            },
-            "require-dev": {
-                "orchestra/testbench": "^10.6",
-                "phpunit/phpunit": "^11.5"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Zolta\\Framework\\Providers\\ZoltaFrameworkServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Zolta\\Framework\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Redouane Taleb",
-                    "homepage": "https://github.com/redouaneT",
-                    "role": "Founder & Lead Developer"
-                }
-            ],
-            "description": "A Composer package for the Zolta framework, providing an umbrella installer and unified Laravel configuration.",
-            "homepage": "https://github.com/zoltasoft/zolta-framework",
-            "support": {
-                "issues": "https://github.com/zolta/framework/issues",
-                "source": "https://github.com/zolta/framework"
-            },
-            "time": "2026-08-11T20:54:21+00:00"
-        },
-        {
-            "name": "zolta/http",
-            "version": "v2.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/zoltasoft/http.git",
-                "reference": "71ad09d3868ff8280803fa7df6ff3a1b699a0902"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/zoltasoft/http/zipball/71ad09d3868ff8280803fa7df6ff3a1b699a0902",
-                "reference": "71ad09d3868ff8280803fa7df6ff3a1b699a0902",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^8.2",
-                "psr/container": "^2.0",
-                "symfony/process": "^7.3",
-                "symfony/property-access": "^7.3",
-                "symfony/property-info": "^7.3",
-                "symfony/serializer": "^7.3",
-                "zolta/forge": "^1.0"
-            },
-            "require-dev": {
-                "larastan/larastan": "^3.8",
-                "laravel/pint": "^1.26",
-                "mockery/mockery": "^1.6",
-                "orchestra/testbench": "^10.6",
-                "phpmd/phpmd": "^2.15",
-                "phpstan/phpstan": "^2.1",
-                "phpunit/phpunit": "^11.5",
-                "rector/rector": "^2.2"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Zolta\\Http\\Service\\Laravel\\Providers\\ZoltaHttpServiceProvider",
-                        "Zolta\\Http\\Router\\Laravel\\Providers\\ZoltaRouterServiceProvider",
-                        "Zolta\\Http\\Request\\Laravel\\Providers\\ZoltaRequestServiceProvider",
-                        "Zolta\\Http\\Authorization\\Laravel\\Providers\\ZoltaAuthorizationServiceProvider",
-                        "Zolta\\Http\\Identity\\Laravel\\Providers\\ZoltaIdentityServiceProvider"
-                    ]
-                },
-                "zolta-framework-adapter": [
-                    "Zolta\\Http\\Service\\Laravel\\LaravelHttpAdapter",
-                    "Zolta\\Http\\Router\\Laravel\\LaravelRouterAdapter",
-                    "Zolta\\Http\\Request\\Laravel\\LaravelRequestAdapter",
-                    "Zolta\\Http\\Response\\Laravel\\LaravelResponseAdapter",
-                    "Zolta\\Http\\Identity\\Laravel\\LaravelIdentityAdapter"
-                ]
-            },
-            "autoload": {
-                "files": [
-                    "src/Support/helpers.php"
-                ],
-                "psr-4": {
-                    "Zolta\\Http\\Router\\": "src/Router/",
-                    "Zolta\\Http\\Request\\": "src/Request/",
-                    "Zolta\\Http\\Service\\": "src/Service/",
-                    "Zolta\\Http\\Support\\": "src/Support/",
-                    "Zolta\\Http\\Response\\": "src/Response/",
-                    "Zolta\\Http\\Controller\\": "src/Controller/",
-                    "Zolta\\Http\\Exceptions\\": "src/Exceptions/",
-                    "Zolta\\Http\\Authorization\\": "src/Authorization/",
-                    "Zolta\\Http\\Router\\Laravel\\": "src/Router/Adapters/Laravel/",
-                    "Zolta\\Http\\Request\\Laravel\\": "src/Request/Adapters/Laravel/",
-                    "Zolta\\Http\\Service\\Laravel\\": "src/Service/Adapters/Laravel/",
-                    "Zolta\\Http\\Identity\\Laravel\\": "src/Identity/Adapters/Laravel/",
-                    "Zolta\\Http\\Response\\Laravel\\": "src/Response/Adapters/Laravel/",
-                    "Zolta\\Http\\Controller\\Laravel\\": "src/Controller/Adapters/Laravel/",
-                    "Zolta\\Http\\Exceptions\\Laravel\\": "src/Exceptions/Adapters/Laravel/",
-                    "Zolta\\Http\\Authorization\\Laravel\\": "src/Authorization/Adapters/Laravel/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Redouane Taleb",
-                    "homepage": "https://github.com/redouaneT"
-                }
-            ],
-            "description": "Domain-driven HTTP framework for PHP 8.2+ with attribute-based routing, automatic request validation, DTO mapping, standardized response shaping, and built-in authorization. First-class Laravel and Symfony adapters.",
-            "keywords": [
-                "adapter",
-                "api",
-                "attribute-routing",
-                "authorization",
-                "dto",
-                "http",
-                "laravel",
-                "php",
-                "request-validation",
-                "response",
-                "response-shaping",
-                "routing",
-                "symfony",
-                "zolta"
-            ],
-            "support": {
-                "issues": "https://github.com/zoltasoft/http/issues",
-                "source": "https://github.com/zoltasoft/http/tree/v2.1.0"
-            },
-            "time": "2026-08-11T20:20:54+00:00"
         }
     ],
     "packages-dev": [
@@ -11027,12 +11027,12 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {},
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.3"
     },
-    "platform-dev": {},
-    "plugin-api-version": "2.9.0"
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
 }

@@ -1,5 +1,5 @@
-Zolta Starter
-Copyright 2026 Zoltasoft contributors
+Service Talred Starter
+Copyright 2026 Redouane Taleb
 
 This repository includes the Zolta Identity console and server as the
 `apps/identity-console` and `apps/identity-server` applications. They are
