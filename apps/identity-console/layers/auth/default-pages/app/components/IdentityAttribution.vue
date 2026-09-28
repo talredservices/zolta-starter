@@ -28,13 +28,13 @@ defineProps<{
     </nav>
     <span v-else />
     <a
-      href="https://github.com/zoltasoft/zolta-starter"
+      href="https://github.com/talredservices/zolta-starter"
       target="_blank"
       rel="noopener noreferrer"
       class="identity-attribution-credit"
     >
       <UIcon name="i-simple-icons-github" />
-      Zoltasoft by Redouane Taleb
+      Talred by Redouane Taleb
     </a>
   </footer>
 </template>

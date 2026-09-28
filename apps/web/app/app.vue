@@ -2,8 +2,8 @@
 const colorMode = useColorMode()
 const { locale } = useI18n()
 const color = computed(() => colorMode.value === 'dark' ? '#171717' : '#ffffff')
-const title = 'Zoltasoft Starter'
-const description = 'A product-neutral Nuxt foundation for the Zoltasoft ecosystem.'
+const title = 'Talred Starter'
+const description = 'A product-neutral Nuxt foundation for the Talred ecosystem.'
 
 useHead({
   meta: [

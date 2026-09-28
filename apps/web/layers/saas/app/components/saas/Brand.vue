@@ -17,6 +17,6 @@ withDefaults(defineProps<{
     <span
       v-if="!collapsed"
       class="text-sm font-semibold tracking-tight"
-    >Zoltasoft SaaS</span>
+    >Talred SaaS</span>
   </span>
 </template>

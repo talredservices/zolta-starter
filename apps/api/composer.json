@@ -2,7 +2,7 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "talred/zolta-starter-api",
     "type": "project",
-    "description": "Laravel API starter demonstrating Service Talred Clean Architecture and CQRS.",
+    "description": "Laravel API starter demonstrating Talred Clean Architecture and CQRS.",
     "keywords": [
         "laravel",
         "zolta",

@@ -1,6 +1,6 @@
-# Zoltasoft Starter Web
+# Talred Starter Web
 
-`apps/web` is a product-neutral Nuxt 4 foundation for applications that use Zoltasoft Identity and a Nuxt BFF. It contains shared UI/i18n packages, authentication/session plumbing, validation, error handling, caching, and the Identity consumer integration. No product pages, feature layers, demo data, or business API client are enabled by default.
+`apps/web` is a product-neutral Nuxt 4 foundation for applications that use Talred Identity and a Nuxt BFF. It contains shared UI/i18n packages, authentication/session plumbing, validation, error handling, caching, and the Identity consumer integration. No product pages, feature layers, demo data, or business API client are enabled by default.
 
 ## Setup
 

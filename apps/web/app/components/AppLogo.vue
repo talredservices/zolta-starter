@@ -6,7 +6,7 @@ withDefaults(defineProps<{
   logo?: string | null
 }>(), {
   collapsed: false,
-  brand: 'Zoltasoft Starter',
+  brand: 'Talred Starter',
   icon: 'i-lucide-sparkles',
   logo: null
 })

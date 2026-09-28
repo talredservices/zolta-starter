@@ -2,7 +2,7 @@
   "$schema": "https://www.schemastore.org/package.json",
   "name": "@zoltasoft/zolta-starter-web",
   "version": "0.1.0",
-  "description": "Product-neutral Nuxt foundation for Zoltasoft applications.",
+  "description": "Product-neutral Nuxt foundation for Talred applications.",
   "type": "module",
   "private": true,
   "license": "Apache-2.0",

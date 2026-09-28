@@ -1,5 +1,5 @@
 const english = {
-  brand: 'Zoltasoft SaaS',
+  brand: 'Talred SaaS',
   navigation: {
     product: 'Product',
     pricing: 'Pricing',
@@ -21,7 +21,7 @@ const english = {
   pricing: {
     eyebrow: 'Simple pricing',
     title: 'Start small. Scale when the work does.',
-    description: 'Every plan includes the complete Zoltasoft SaaS workflow. Upgrade when your team needs more automation, history, and governance.',
+    description: 'Every plan includes the complete Talred SaaS workflow. Upgrade when your team needs more automation, history, and governance.',
     monthly: 'Monthly',
     yearly: 'Yearly',
     yearlySaving: 'Save 20%',
@@ -67,7 +67,7 @@ const english = {
     termsTitle: 'Terms of service',
     privacyTitle: 'Privacy policy',
     updated: 'Template copy · July 2026',
-    notice: 'Zoltasoft SaaS is a fictional product demonstration. Replace this template copy with legal text reviewed for your company, product, and jurisdiction before launching a real service.',
+    notice: 'Talred SaaS is a fictional product demonstration. Replace this template copy with legal text reviewed for your company, product, and jurisdiction before launching a real service.',
     terms: [
       { title: 'Using the service', body: 'You are responsible for the activity in your workspace and for using the service lawfully. Access may be limited when required to protect the service, other users, or the public.' },
       { title: 'Accounts and content', body: 'You keep ownership of content you submit. You grant the service only the permissions needed to store, process, and present that content as part of the requested features.' },
@@ -82,12 +82,12 @@ const english = {
     ]
   },
   auth: {
-    demoTitle: 'Try the complete Zoltasoft SaaS demo',
+    demoTitle: 'Try the complete Talred SaaS demo',
     demoDescription: 'Generate a private temporary account, sign in, and explore the authenticated SaaS shell. Demo data is scheduled for deletion when the session expires.'
   },
   changelog: {
     eyebrow: 'Product updates',
-    title: 'What is new in Zoltasoft SaaS',
+    title: 'What is new in Talred SaaS',
     description: 'A reusable changelog pattern for communicating improvements clearly and consistently.',
     entries: [
       { version: '1.4.0', date: 'July 2026', title: 'Workflow templates', description: 'Save repeatable processes as templates, share them across workspaces, and control who can publish changes.', tags: ['Product', 'Teams'] },
@@ -101,10 +101,10 @@ const english = {
     settings: 'Settings',
     product: 'Product website',
     support: 'Help & support',
-    primaryNavigation: 'Zoltasoft SaaS dashboard navigation',
-    secondaryNavigation: 'Zoltasoft SaaS resource navigation',
-    search: 'Search Zoltasoft SaaS',
-    welcomeEyebrow: 'Zoltasoft SaaS workspace',
+    primaryNavigation: 'Talred SaaS dashboard navigation',
+    secondaryNavigation: 'Talred SaaS resource navigation',
+    search: 'Search Talred SaaS',
+    welcomeEyebrow: 'Talred SaaS workspace',
     welcome: 'Welcome, {name}',
     description: 'Your SaaS foundation is ready. Replace this welcome state with the product modules your next idea needs.',
     demoNote: 'This intentionally minimal dashboard demonstrates the authenticated shell, responsive sidebar, user menu, localization, appearance controls, and account lifecycle without inventing unfinished product data.',
@@ -117,7 +117,7 @@ const english = {
 } as const
 
 const french = {
-  brand: 'Zoltasoft SaaS',
+  brand: 'Talred SaaS',
   navigation: {
     product: 'Produit',
     pricing: 'Tarifs',
@@ -139,7 +139,7 @@ const french = {
   pricing: {
     eyebrow: 'Tarification simple',
     title: 'Commencez simplement. Évoluez avec votre activité.',
-    description: 'Chaque offre comprend le parcours Zoltasoft SaaS complet. Passez au niveau supérieur lorsque votre équipe a besoin de plus d’automatisation, d’historique et de gouvernance.',
+    description: 'Chaque offre comprend le parcours Talred SaaS complet. Passez au niveau supérieur lorsque votre équipe a besoin de plus d’automatisation, d’historique et de gouvernance.',
     monthly: 'Mensuel',
     yearly: 'Annuel',
     yearlySaving: 'Économisez 20 %',
@@ -185,7 +185,7 @@ const french = {
     termsTitle: 'Conditions d’utilisation',
     privacyTitle: 'Politique de confidentialité',
     updated: 'Texte modèle · Juillet 2026',
-    notice: 'Zoltasoft SaaS est une démonstration de produit fictif. Avant tout lancement réel, remplacez ce texte modèle par des conditions révisées pour votre entreprise, votre produit et votre juridiction.',
+    notice: 'Talred SaaS est une démonstration de produit fictif. Avant tout lancement réel, remplacez ce texte modèle par des conditions révisées pour votre entreprise, votre produit et votre juridiction.',
     terms: [
       { title: 'Utilisation du service', body: 'Vous êtes responsable de l’activité de votre espace et d’une utilisation conforme à la loi. L’accès peut être limité afin de protéger le service, les autres utilisateurs ou le public.' },
       { title: 'Comptes et contenu', body: 'Vous restez propriétaire du contenu transmis. Vous accordez uniquement les permissions nécessaires à son stockage, son traitement et sa présentation dans les fonctions demandées.' },
@@ -200,12 +200,12 @@ const french = {
     ]
   },
   auth: {
-    demoTitle: 'Essayez la démonstration Zoltasoft SaaS complète',
+    demoTitle: 'Essayez la démonstration Talred SaaS complète',
     demoDescription: 'Générez un compte privé temporaire, connectez-vous et explorez la zone SaaS authentifiée. Les données de démonstration sont programmées pour suppression à l’expiration de la session.'
   },
   changelog: {
     eyebrow: 'Mises à jour produit',
-    title: 'Les nouveautés de Zoltasoft SaaS',
+    title: 'Les nouveautés de Talred SaaS',
     description: 'Un modèle de changelog réutilisable pour communiquer les améliorations clairement et régulièrement.',
     entries: [
       { version: '1.4.0', date: 'Juillet 2026', title: 'Modèles de processus', description: 'Enregistrez les processus récurrents, partagez-les entre espaces et contrôlez la publication des changements.', tags: ['Produit', 'Équipes'] },
@@ -219,10 +219,10 @@ const french = {
     settings: 'Paramètres',
     product: 'Site du produit',
     support: 'Aide et assistance',
-    primaryNavigation: 'Navigation du tableau de bord Zoltasoft SaaS',
-    secondaryNavigation: 'Navigation des ressources Zoltasoft SaaS',
-    search: 'Rechercher dans Zoltasoft SaaS',
-    welcomeEyebrow: 'Espace Zoltasoft SaaS',
+    primaryNavigation: 'Navigation du tableau de bord Talred SaaS',
+    secondaryNavigation: 'Navigation des ressources Talred SaaS',
+    search: 'Rechercher dans Talred SaaS',
+    welcomeEyebrow: 'Espace Talred SaaS',
     welcome: 'Bienvenue, {name}',
     description: 'Votre fondation SaaS est prête. Remplacez cet accueil par les modules nécessaires à votre prochaine idée.',
     demoNote: 'Ce tableau de bord volontairement minimal démontre la zone authentifiée, la barre latérale responsive, le menu utilisateur, la traduction, les thèmes et le cycle de vie du compte sans inventer de fausses données produit.',

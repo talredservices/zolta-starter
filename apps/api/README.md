@@ -1,4 +1,4 @@
-# Zoltasoft Starter API
+# Talred Starter API
 
 `apps/api` is a product-neutral Laravel host for building independently deployable services with Zolta HTTP, CQRS, and Forge. No business bounded context, endpoint, fixture, or product data is enabled by default.
 

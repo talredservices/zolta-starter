@@ -59,7 +59,7 @@ verification, recovery, and reset screens. Unknown or disabled page sets fall
 back to the default `/auth/<screen>` routes.
 
 The ready-made hosted pages include the optional
-`IdentityAttribution.vue` lower-left Zoltasoft credit and source link. A cloned
+`IdentityAttribution.vue` lower-left Talred credit and source link. A cloned
 or white-labelled host can remove `<IdentityAttribution />` from
 `layers/auth/default-pages/app/layouts/identity-auth.vue`.
 Set `IDENTITY_PORTFOLIO_PRODUCTS_URL` to show the optional “Built by Redouane”

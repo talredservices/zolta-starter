@@ -45,7 +45,7 @@ const columns = computed(() => [
     </template>
     <template #left>
       <p class="text-sm text-muted">
-        Zoltasoft SaaS &copy; {{ new Date().getFullYear() }}
+        Talred SaaS &copy; {{ new Date().getFullYear() }}
       </p>
     </template>
     <template #right>
